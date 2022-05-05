@@ -1,0 +1,9 @@
+
+J
+java:S1172"(Remove this unused method parameter "i".(íÂ¤‘ùÿÿÿÿ8ú¡—™é/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ø¿½‹8áÔöêè/
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8£¢ƒëè/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ğ•’·şÿÿÿÿ8íÅíêè/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Í’áÁ8ä¼†ëè/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½Õëúÿÿÿÿ

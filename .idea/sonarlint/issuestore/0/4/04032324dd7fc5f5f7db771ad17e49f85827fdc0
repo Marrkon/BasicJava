@@ -1,0 +1,6 @@
+
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8£„íüÈ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ¢Ûßüÿÿÿÿ8£„íüÈ/
+Q
+java:S3740"/Provide the parametrized type for this generic.(¿©æÁùÿÿÿÿ8£„íüÈ/
