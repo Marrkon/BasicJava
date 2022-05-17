@@ -5,10 +5,11 @@ interface Square {
     int calculateSquare(int x);
 }
 public class NumberSquare implements TextPrint {
+
     public static void main(String args[]) {
-        int num = 111;
         Square lambda = (int x) -> (x * x);
-        int answer = lambda.calculateSquare(num);
+        int answer = lambda.calculateSquare(2);
+
         System.out.println("Answer is " + answer);
     }
 

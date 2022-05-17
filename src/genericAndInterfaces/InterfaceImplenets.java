@@ -1,7 +1,7 @@
 package genericAndInterfaces;
 
 public class InterfaceImplenets {
-    InterfaceImplenets(){
+    public InterfaceImplenets(){
         System.out.println("Interfaceimplements constructor");
     }
     protected void meth1(){
